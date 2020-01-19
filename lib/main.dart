@@ -108,7 +108,7 @@ class _MyHomePageState extends State<MyHomePage> {
                           print("Radio $val");
                           setSelectedRadio(val);
                         },
-                        title: new Text('Femenino'),
+                        title: new Text('Feminino'),
                       ),
                       new RadioListTile<int>(
                         value: 2,
